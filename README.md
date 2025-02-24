@@ -34,18 +34,18 @@ Cada capítulo aborda um tópico específico do PDS, com exemplos e explicaçõe
 - [Vídeo 2 - Implementação de filtros digitais](https://www.youtube.com/watch?v=UP0RyzYxqc8)
 
 ### Capítulo 7: Projeto de Filtros FIR
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1uzMVPYbQSG4gIqoFogVGqMZNRuNcDrPL?usp=sharing)
 - [Vídeo 1 - Introdução ao design de filtros FIR](https://www.youtube.com/watch?v=NvRKtdrssFA)
 - [Vídeo 2 - Expansão sobre FIR](https://www.youtube.com/watch?v=9gm1UhwNm3I)
 
 ### Capítulo 8: Projeto de Filtros IIR
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1kJd06mXcdkdDvz1gsT11mqHmFQyPx9sQ?usp=sharing)
 - [Vídeo 1 - Resposta de Impulso Infinito (IIR)](https://www.youtube.com/watch?v=ap1qXBTKU8g)
 - [Vídeo 2 - Exemplos práticos de filtros IIR](https://www.youtube.com/watch?v=mSM1fCMZrZ8)
 - [Vídeo 3 - Procedimento de design de filtros IIR](https://www.youtube.com/watch?v=N1eraFmDw1M)
 
 ### Capítulo 12: Aplicações em Comunicações
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1GeNy4TrJbSmYFY1X3t992hGG1nKmoXAs?usp=sharing)
 - [Vídeo 1 - Modulação por Código de Pulso (PCM)](https://www.youtube.com/watch?v=wn71QBApCRg)
 - [Vídeo 2 - Modulação PCM diferencial (DPCM)](https://www.youtube.com/watch?v=PFbm-jsTIpA)
 - [Vídeo 3 - Modulação PCM e DPCM adaptativa (ADPCM)](https://www.youtube.com/watch?v=GlKu8QTrK8Y&t=321s)
