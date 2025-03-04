@@ -19,17 +19,17 @@ Ao explorar esse material, os estudantes poderão aprofundar sua compreensão so
 Cada capítulo aborda um tópico específico do PDS, com exemplos e explicações minuciosas para garantir um entendimento completo.
 
 ### Capítulo 4: Transformada-Z
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1JBfNHJHRMCd2N1rcx0ZKmrw-7p5zevcO?usp=sharing)
 - [Vídeo 1 - Introdução à Transformada-Z](https://www.youtube.com/watch?v=XJRW6jamUHk)
 - [Vídeo 2 - Implementação da Transformada-Z em Python](https://www.youtube.com/watch?v=T11H-kOq1Y4)
 
 ### Capítulo 5: Transformada Discreta de Fourier
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1QsiDRbIyOAb66ZyvHbz1o6ETYGO1UNaj?usp=sharing)
 - [Vídeo 1 - Conceitos fundamentais da DFT](https://www.youtube.com/watch?v=nl9TZanwbBk)
 - [Vídeo 2 - Aplicando DFT em Python](https://www.youtube.com/watch?v=5a61BUpzmT4)
 
 ### Capítulo 6: Filtros Discretos no Tempo
-- [Google Colab Notebook]()
+- [Google Colab Notebook](https://colab.research.google.com/drive/1KbXO5gyindDRXJd1Cc9WtzGV-DQsb2IE?usp=sharing)
 - [Vídeo 1 - Diferenças entre filtros IIR e FIR](https://www.youtube.com/watch?v=9yNQBWKRSs4)
 - [Vídeo 2 - Implementação de filtros digitais](https://www.youtube.com/watch?v=UP0RyzYxqc8)
 
